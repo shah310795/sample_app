@@ -10,6 +10,8 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require_tree .
- *= require_self
- */
+
+ * This ensures that All CSS files in the Directory are included into the application CSS 
+ * = require_tree .
+ * This specifies that application CSS includes itself 
+ * = require_self */
