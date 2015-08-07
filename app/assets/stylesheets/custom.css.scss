@@ -18,6 +18,7 @@ textarea {
 }
 
 /* typography */
+
 h1,h2,h3,h4,h5,h6 {
 	line-height: 1;
 }
@@ -35,6 +36,7 @@ h2 {
 	font-weight: normal;
 	color: #777;
 }
+
 p {
   	font-size: 1.1em;
  	line-height: 1.7em;
@@ -99,6 +101,7 @@ footer {
 }
 
 /* Sidebar */
+
 aside {
   section.user_info {
     margin-top: 20px;
@@ -135,6 +138,7 @@ aside {
 }
 
 /* Forms */
+
 input,textarea,select, .uneditable-input {
   border: 1px solid #bbb;
   width: 100%;
@@ -147,6 +151,7 @@ input {
 }
 
 /* Forms Error */
+
 #error_explanation {
   color: red;
   ul {
